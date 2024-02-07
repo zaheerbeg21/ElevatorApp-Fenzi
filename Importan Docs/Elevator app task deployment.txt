@@ -1,0 +1,36 @@
+Task List:
+
+1. **Task for Zaheer:**
+   - Create a task to set up the deployment environment for the elevator complaint app.
+   - Coordinate with Shayan to ensure all necessary resources are available for the deployment.
+
+2. **Task for Shazan:**
+   - Develop an API for generating tickets for elevator complaints in Fenzi Odoo.
+   - Check if ticket generation is enabled in Fenzi; enable it if not.
+   - Ensure automatic creation of a ticket, job number, or work order for elevator complaints.
+   - Collaborate with Akram and Shayan for WhatsApp integration using Twilio credentials provided by the user.
+   - Implement the functionality to send two messages: one to Fenzi's Technician Manager and another to the customer who raised the complaint.
+
+3. **Task for Shayan:**
+   - Continue internal testing of the QR-Code app.
+   - Collaborate with Akram for WhatsApp integration.
+   - Work on other parts of the app simultaneously.
+
+4. **Task for Akram:**
+   - Assist Shayan with WhatsApp integration using Twilio credentials.
+   
+5. **Task for Zaheer:**
+   - Coordinate and monitor the status of the QR-Code app deployment.
+   - Ensure that the QR-Code app is up and running.
+
+6. **General Tasks:**
+   - Collaborate with Sameer to implement the feature of printing QR-Codes from the Equipment screen in Odoo.
+   - Verify that the QR-Code is linked to a specific elevator ID.
+   - Ensure that all parts of the app are ready for deployment.
+
+7. **Communication:**
+   - Keep the communication channel open among the team members for updates and problem-solving.
+   - Share relevant credentials with the team members as needed.
+
+
+
